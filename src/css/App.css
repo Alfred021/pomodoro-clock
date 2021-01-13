@@ -1,0 +1,24 @@
+body {
+  padding: 3em;
+  margin: 15px 35px;
+  background-color: #F0FFF0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#session-label, #break-label, #timer-label, #time-left {
+  font-size: 1.9em;
+  text-transform: capitalize;
+}
+
+#timer-label {
+  padding-top: 1em
+}
+
+#session-length, #break-length {
+  font-size: 1.8em;
+  padding: 0.4em;
+}
+
+h1 {
+  padding-bottom: 0.4em;
+}
